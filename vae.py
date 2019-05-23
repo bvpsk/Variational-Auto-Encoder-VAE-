@@ -17,7 +17,7 @@
 #	Trained this model on 'Google Colab'
 #	Link for Google Colab : https://colab.research.google.com/drive/19TVLOcllujpiBh3y2EUUQXwgdyUSwBv_
 #
-#
+#	kaggle Kernel : https://www.kaggle.com/kumar1541/variational-auto-encoder-in-keras?scriptVersionId=14573583
 #
 ###############################################################################################################################
 
