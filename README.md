@@ -1,3 +1,27 @@
+
+Variational Auto Encoder Built using Keras and celebA dataset is used
+for training.
+
+	Created by : B V P Sai Kumar
+	github : https://github.com/kumararduino
+	website : https://kumarbasaveswara.in
+	linkedin : https://www.linkedin.com/in/kumar15412304/
+
+
+	Credits:
+	Dataset : https://www.kaggle.com/jessicali9530/celeba-dataset
+	Article : https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf
+		This Article gave me a clear glance about how Variational Auto Encoders work
+ 	Article on KL_Divergence : https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained
+	Trained this model on 'Google Colab'
+	Link for Google Colab : https://colab.research.google.com/drive/19TVLOcllujpiBh3y2EUUQXwgdyUSwBv_
+
+	kaggle Kernel : https://www.kaggle.com/kumar1541/variational-auto-encoder-in-keras?scriptVersionId=14573583
+
+
+
+
+
 # Variational-Auto-Encoder-VAE-
 Implementing VAE in keras and training on CelebA dataset
 
